@@ -31,3 +31,9 @@
 *.out
 *.app
 *.lnk
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.user
+*.sln
