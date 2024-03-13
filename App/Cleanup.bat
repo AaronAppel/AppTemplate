@@ -1,0 +1,2 @@
+del *.vcxproj
+del *.user
