@@ -8,8 +8,7 @@ project "bgfxApp"
 	
 	excludes
 	{
-		"QF_RendererBgfxExampleOriginal_prev.cpp",
-		"QF_RendererBgfxExampleOriginal_HelloWorld.cpp",
+		"BgfxAppMain_crashonsubmit.cpp",
 		
 		"common/entry/entry_android.cpp",
 		"common/entry/entry_html5.cpp",

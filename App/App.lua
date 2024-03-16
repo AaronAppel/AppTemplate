@@ -16,7 +16,7 @@ project "App"
 	
 	excludes
 	{
-		"main_working.cpp",
+		"Source/main_working.cpp",
 	}
 
 	includedirs
