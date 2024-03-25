@@ -1,0 +1,28 @@
+{
+	"ExampleStruct":	[{
+			"intA":	17,
+			"boolB":	false,
+			"charC":	"S",
+			"floatD":	1067282596,
+			"doubleE":	151182849,
+			"constCharPtrF":	"Mirror",
+			"stdStringG":	"Example"
+		}],
+	"ExampleClass":	[{
+			"intX":	9,
+			"intY":	4
+		}],
+	"m_int8_t":	{
+},
+	"ExampleNestedCutomTypes":	[{
+			"intA":	17,
+			"boolB":	false,
+			"charC":	"S",
+			"floatD":	1067282596,
+			"doubleE":	151182849,
+			"constCharPtrF":	"Mirror",
+			"stdStringG":	"Example",
+			"intX":	17,
+			"intY":	-859024640
+		}]
+}
